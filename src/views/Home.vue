@@ -39,11 +39,11 @@
                     <div class="mx-5" v-on:click="handleLogin()">Manager Sign In</div>
                 </div>
             </div>
-            <div class="d-flex justify-content-end">
+            <!-- <div class="d-flex justify-content-end">
                 <div class="d-flex justify-content-center primary-button mx-5" v-on:click="$router.push({name: 'RequestAxie', params: {id: '1234', image: axie.image}})">
                     <div class="mx-5" v-on:click="handleLogin()">Scholar Sign In</div>
                 </div>
-            </div>
+            </div> -->
         </div>
 
 
